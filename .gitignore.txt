@@ -1,3 +1,0 @@
-settings.md
-documents/graphs.md
-documents/table.md
