@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+
+documents/graphs.md
+documents/table.md
+>>>>>>> 7d04e6d94210f60587e316ab65171e40f06e7a38
